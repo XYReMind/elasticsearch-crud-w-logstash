@@ -1,0 +1,1 @@
+logstash -f jdbc-mysql.conf
